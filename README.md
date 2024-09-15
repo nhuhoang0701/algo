@@ -1,4 +1,6 @@
 **The Strategy:**  
+
+
 Initially, I aimed to implement a mean reversion strategy, trying to predict price reversal points based on support and resistance levels. However, I found this approach challenging, as it required a lot of predictive power. Eventually, I pivoted to a trend-following system using a machine learning algorithm, which turned out to be much more manageable for me.
 
 **Historical Data and Indicators:**  
